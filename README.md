@@ -1,6 +1,8 @@
 # ETRobo Project
 This is a project of making an easy going [telepresence](https://en.wikipedia.org/wiki/Telepresence) robot.
 
+# Showcase
+
 a startup message sample.
 
 ![a startup message sample](https://raw.githubusercontent.com/neetandgeeks/easygoingtelepresencerobot/main/pictures/StartupMessageSample.gif)
