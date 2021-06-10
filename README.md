@@ -19,6 +19,11 @@ By using [OpenTrack](https://github.com/opentrack/opentrack), It can be controll
 * [pywin32](https://github.com/mhammond/pywin32)
 * * for using Win32API
 
+## Interface, etc.
+
+* [OpenTrack](https://github.com/opentrack/opentrack)
+* * for head tracking
+
 # the Server
 
 ## Python Packages / Modules
