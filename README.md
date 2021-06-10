@@ -20,6 +20,8 @@ By using [OpenTrack](https://github.com/opentrack/opentrack), It can be controll
 * * for GUI
 * [pywin32](https://github.com/mhammond/pywin32)
 * * for using Win32API
+* [paramiko](https://www.paramiko.org/)
+* * for communicating with server
 
 ## Interface, etc.
 
