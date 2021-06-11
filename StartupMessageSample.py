@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# I referred to the following page for writing this code.
+# https://coderslegacy.com/python/pygame-font/
 
 import sys
 import pygame
