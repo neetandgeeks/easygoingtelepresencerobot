@@ -150,12 +150,11 @@ def main():
         dialogue02 = dialogue_font.render(message02, True, color01)
         screen.blit(dialogue02, (10,30))
 
-        
         raw_axis4 = joystick.get_axis(4)
         message03 = str(int(100 * raw_axis4))
         dialogue03 = dialogue_font.render(message03, True, color01)
         screen.blit(dialogue03, (10,60))
-        
+
         raw_axis0 = joystick.get_axis(0)
         message04 = str(int(50 * raw_axis0))
         dialogue04 = dialogue_font.render(message04, True, color01)
