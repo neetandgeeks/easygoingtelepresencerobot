@@ -29,6 +29,8 @@ https://stackoverflow.com/questions/27676637/stream-video-in-python-use-pygame-l
 
 https://stackoverflow.com/questions/15003778/i-want-to-stream-a-webcam-feed-using-socket-programming-in-python
 
+https://coderslegacy.com/python/pygame-font/
+
 https://www.pygame.org/docs/ref/font.html
 
 http://westplain.sakuraweb.com/translate/pygame/Font.cgi
