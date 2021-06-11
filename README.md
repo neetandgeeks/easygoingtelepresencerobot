@@ -51,6 +51,12 @@ https://self-development.info/python%E3%81%A7paramiko%E3%81%AB%E3%82%88%E3%82%8B
 
 https://qiita.com/fukasawah/items/7ae2ab0057c565607d88
 
+## ezblock
+
+https://github.com/sunfounder-ezblock/ezb-pi
+
+https://github.com/sunfounder/pan-tilt-hat/blob/master/examples/7.get_order.py
+
 ## Named pipe
 
 https://stackoverflow.com/questions/48542644/python-and-windows-named-pipes
@@ -87,29 +93,29 @@ By using [OpenTrack](https://github.com/opentrack/opentrack), It can be controll
 ## Python Packages / Modules
 
 * [PyGame](https://www.pygame.org/docs/)
-* * for GUI
+  * for GUI
 * [pywin32](https://github.com/mhammond/pywin32)
-* * for using Win32API
+  * for using Win32API
 * [paramiko](https://www.paramiko.org/)
-* * for communicating with server
+  * for communicating with server
 
 ## Interface, etc.
 
 * [OpenTrack](https://github.com/opentrack/opentrack)
-* * for head tracking
+  * for head tracking
 
 # the Server
 
 ## Python Packages / Modules
 
 * [PyGame](https://www.pygame.org/docs/)
-* * for receiving commands and sending videos
+  * for receiving commands and sending videos
 * [ezblock](https://github.com/sunfounder-ezblock/ezb-pi)
-* * for controlling Motors
+  * for controlling Motors
 
 ## Interface, etc.
 
 * Named pipe
-* * for receiving commands and sending videos via SSH
+  * for receiving commands and sending videos via SSH
 * SSH
-* * for communicating with client
+  * for communicating with client
