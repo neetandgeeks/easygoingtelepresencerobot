@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# These codes are modified from the codes on the pages:
+# https://stackoverflow.com/questions/27676637/stream-video-in-python-use-pygame-lib
+# https://stackoverflow.com/questions/550001/fully-transparent-windows-in-pygame
 
 import sys
 import time
