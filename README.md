@@ -2,7 +2,17 @@
 This is a project of making an easy going [telepresence](https://en.wikipedia.org/wiki/Telepresence) robot.
 
 # References
+https://docs.python.org/3.8/tutorial/index.html
+
+https://docs.python.org/ja/3.8/tutorial/index.html
+
+https://www.python.org/dev/peps/pep-0008/
+
+https://pep8-ja.readthedocs.io/ja/latest/
+
 https://stackoverflow.com/help/licensing
+
+https://ja.stackoverflow.com/help/licensing
 
 https://stackoverflow.com/questions/45508213/using-channels-with-paramiko
 
