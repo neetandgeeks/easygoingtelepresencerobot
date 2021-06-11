@@ -1,6 +1,17 @@
 # ETRobo Project
 This is a project of making an easy going [telepresence](https://en.wikipedia.org/wiki/Telepresence) robot.
 
+# References
+https://stackoverflow.com/help/licensing
+
+https://stackoverflow.com/questions/45508213/using-channels-with-paramiko
+
+https://stackoverflow.com/questions/550001/fully-transparent-windows-in-pygame
+
+https://stackoverflow.com/questions/27676637/stream-video-in-python-use-pygame-lib
+
+https://stackoverflow.com/questions/15003778/i-want-to-stream-a-webcam-feed-using-socket-programming-in-python
+
 # Showcase
 
 a startup message sample.
