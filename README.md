@@ -57,6 +57,20 @@ https://stackoverflow.com/questions/48542644/python-and-windows-named-pipes
 
 https://qiita.com/mandbjp505/items/77ea497e12ca23e221ac
 
+## pixel Mplus
+
+http://itouhiro.hatenablog.com/entry/20130602/font
+
+https://kuzlog.com/2017/01/15/390/
+
+https://yuzuyu3.com/dot-font/
+
+## YUKI.N
+
+https://130cmwolf.github.io/YUKI.N/
+
+https://en.wikipedia.org/wiki/Haruhi_Suzumiya
+
 # Showcase
 
 a startup message sample.
